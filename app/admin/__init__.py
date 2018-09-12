@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Date    : 2018-09-13 00:33:01
+# @Author  : Moe (bogerv@163.com)
+# @Version : 1.0.0
+
 from flask import Blueprint
 from flask_restful import Api
 

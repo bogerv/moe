@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Date    : 2018-09-13 00:35:37
+# @Author  : Moe (bogerv@163.com)
+# @Version : 1.0.0
+
 from exts import db
 from passlib.hash import pbkdf2_sha256 as sha256
 
