@@ -1,2 +1,0 @@
-# isli
-flask demo
